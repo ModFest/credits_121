@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "symbolics.division.modfest_credits.mixin.client",
+	"package": "symbolics.division.modfest_credits.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+		"CreditsScreenMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

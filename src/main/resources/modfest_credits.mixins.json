@@ -3,7 +3,7 @@
 	"package": "symbolics.division.modfest_credits.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+
 	],
 	"injectors": {
 		"defaultRequire": 1
