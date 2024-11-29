@@ -1,0 +1,8 @@
+{
+  "credits_music": {
+    "subtitle": "subtitles.mf_credits.credits_music",
+    "sounds": [
+      "modfest_credits:credits_music"
+    ]
+  }
+}
